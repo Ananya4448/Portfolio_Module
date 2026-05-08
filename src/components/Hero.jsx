@@ -80,7 +80,7 @@ function Hero() {
 
           <div className="bg-icon">
             <a
-              href="https://github.com/Ananya4448/Portfolio_Module"
+              href="https://portfoliomodul.netlify.app/"
               target="_blank"
               rel="noopener noreferrer"
             >
