@@ -7,6 +7,9 @@ Thumbs.db
 
 # Node
 node_modules/
+dist/
+dist-ssr/
+*.local
 
 # Python
 venv/
@@ -15,10 +18,19 @@ __pycache__/
 
 # Logs
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# mac
-*.DS_Store
+# Editor
+.idea
+.DS_Store
+
+# Build
+build/
 
 # Temp
 *.tmp
 .env
+.env.local
+.env.production
